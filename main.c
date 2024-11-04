@@ -1,8 +1,9 @@
+#include "lib.h"
 #include <stdio.h>
 
 
-int main()
-{
-   printf("Hello, ITI \n");
-   return 0;
+
+int main(){
+  SayHello();
+  return 0;
 }
